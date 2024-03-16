@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TextGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\system\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:system\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\structure\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:structure\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\object\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:object\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\make\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:make\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\test\\craftingsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:test\\craftingsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\system\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:system\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\system\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:system\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\test\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:test\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|c:\\users\\user\\source\\repos\\textgame\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C9AD4-84C4-4C0F-9C4B-1F404D0A865A}|TextGame.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CraftingSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Test\\CraftingSystemTests.cs",
+              "RelativeDocumentMoniker": "Test\\CraftingSystemTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Test\\CraftingSystemTests.cs",
+              "RelativeToolTip": "Test\\CraftingSystemTests.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAD4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:09:08.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:22:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CraftingRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Make\\CraftingRecipe.cs",
+              "RelativeDocumentMoniker": "Make\\CraftingRecipe.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Make\\CraftingRecipe.cs",
+              "RelativeToolTip": "Make\\CraftingRecipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:06:45.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\system\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "system\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\system\\PlayerStats.cs",
+              "RelativeToolTip": "system\\PlayerStats.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAzwM8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:14:51.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Farm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Structure\\Farm.cs",
+              "RelativeDocumentMoniker": "Structure\\Farm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Structure\\Farm.cs",
+              "RelativeToolTip": "Structure\\Farm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:14:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\object\\Plant.cs",
+              "RelativeDocumentMoniker": "object\\Plant.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\object\\Plant.cs",
+              "RelativeToolTip": "object\\Plant.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:12:58.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\object\\Item.cs",
+              "RelativeDocumentMoniker": "object\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\object\\Item.cs",
+              "RelativeToolTip": "object\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:10:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CraftingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\system\\CraftingSystem.cs",
+              "RelativeDocumentMoniker": "system\\CraftingSystem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\system\\CraftingSystem.cs",
+              "RelativeToolTip": "system\\CraftingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:08:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestScript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Test\\TestScript.cs",
+              "RelativeDocumentMoniker": "Test\\TestScript.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Test\\TestScript.cs",
+              "RelativeToolTip": "Test\\TestScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:07:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\system\\Inventory.cs",
+              "RelativeDocumentMoniker": "system\\Inventory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\system\\Inventory.cs",
+              "RelativeToolTip": "system\\Inventory.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwFUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:07:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TextGame\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TextGame\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:26:51.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
