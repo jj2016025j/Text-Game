@@ -12,3 +12,4 @@ C:\Users\User\source\repos\TextGame\obj\Debug\net8.0\refint\TextGame.dll
 C:\Users\User\source\repos\TextGame\obj\Debug\net8.0\TextGame.pdb
 C:\Users\User\source\repos\TextGame\obj\Debug\net8.0\TextGame.genruntimeconfig.cache
 C:\Users\User\source\repos\TextGame\obj\Debug\net8.0\ref\TextGame.dll
+c:\Users\User\source\repos\TextGame\obj\Debug\net8.0\TextGame.sourcelink.json
